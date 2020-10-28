@@ -1,7 +1,7 @@
 package main
 
-// use this struct to check whether
-// a User is premium or not
+// User struct might be needed to check
+// if the user is premium or not ;)
 type User struct {
 	ID        int
 	IsPremium bool
